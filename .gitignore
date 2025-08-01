@@ -1,0 +1,13 @@
+# Diretório de compilação do Pico SDK
+build/
+
+# Arquivos gerados pela compilação
+*.o
+*.elf
+*.uf2
+*.hex
+*.bin
+*.d
+
+# Arquivos do VSCode (opcional)
+.vscode/
